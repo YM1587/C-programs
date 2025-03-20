@@ -1,5 +1,5 @@
-# C-programs
-# C Programs Repository
+# C & C++ -programs
+
 
 Welcome to my **C and C++ Programs** repository! 🚀 This repository contains all the C programs I have ever written, ranging from basic syntax and algorithms to advanced data structures and system-level programming.
 
